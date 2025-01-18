@@ -6,5 +6,5 @@ function checkAnswer(){
   } else {
     document.getElementById("feedback").textContent="That's incorrect. Try again!";
   }
-
+let submit = document.getElementById("submit-answer").addEventListener("click", checkAnswer )
 }
