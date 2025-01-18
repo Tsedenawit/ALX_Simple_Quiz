@@ -1,4 +1,4 @@
-let correctAnswer = "4";
 function checkAnswer(){
-    
+   let correctAnswer = "4"; 
+   
 }
